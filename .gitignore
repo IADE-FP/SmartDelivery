@@ -218,3 +218,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Ficheiros locais que não devem ser publicados
+00_Identificacao/
+main.py.backup
+backend/app/main.py.backup
+compose.yaml.backup
